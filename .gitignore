@@ -1,0 +1,5 @@
+data/raw_pdfs
+__pycache__/
+*.pyc
+*.pyo
+data/extracted_text
